@@ -1,0 +1,2 @@
+# Introduction-to-Finance---Valuation-and-Investing
+This Specialization builds on the success of the Introduction to Finance course and provides a rigorous introduction to core topics in financial valuation, including time value of money, cash flow analysis, asset pricing, and risk and return. In the final Capstone Project, you’ll apply your skills to research, analyze, and value a real-world enterprise.
